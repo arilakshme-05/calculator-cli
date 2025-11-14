@@ -1,5 +1,5 @@
 # calculator-cli
-A simple command-line calculator built in Python using the match-case statement.  
+A simple command-line calculator built in Python using the if-elif statement.  
 It performs basic operations like addition, subtraction, multiplication, and division.
 
 ---
